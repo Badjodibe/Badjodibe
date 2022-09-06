@@ -12,7 +12,7 @@
   <li> Currently i'm unemployed feel free to contact me for data science project or software development project </li>
   <li> I'm looking to collaborate on Data science and software developement project</li>
 </ul>
-<h4> Here is technologies and languages that i use : </h4>
+<!-- <h4> Here is technologies and languages that i use : </h4>
 
   <a href = ""> <img class = "image" src ="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/> </a> 
   <a href = ""> <img src ="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/> </a> 
@@ -37,5 +37,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 /p>
+-->
+
 </body>
 </html>
