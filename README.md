@@ -1,4 +1,4 @@
-<h2 style = "color:red"> Hi i'm Dibé welcome to my github account </h2>
+<h2 style = "color:red;"> Hi i'm Dibé welcome to my github account </h2>
 <p> Here is some informations about me </p>
 <!--
 **Badjodibe/Badjodibe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
