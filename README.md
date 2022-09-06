@@ -1,4 +1,10 @@
-<h2 style = "color:red;"> Hi i'm Dibé welcome to my github account </h2>
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="https://github.com/Badjodibe/Badjodibe/edit/main/profile.css">
+</head>
+<body>
+<h2> Hi i'm Dibé welcome to my github account </h2>
 <h4> Here is some informations about me:</h4>
 <ul>
   <li> I'm data scientist specialiste and sofware developer</li>
@@ -8,7 +14,7 @@
 </ul>
 <h4> Here is technologies and languages that i use : </h4>
 
-  <a href = ""> <img class = "../image" src ="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/> </a> 
+  <a href = ""> <img class = "image" src ="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/> </a> 
   <a href = ""> <img src ="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/> </a> 
   <a href = " " <img src = "https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg"/> </a>
   <a href = " " <img src = "https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"/> </a>
@@ -17,7 +23,6 @@
   <a href = " " <img src = "https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg"/> </a>
   <a href = " " <img src = "https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg"/> </a>
   <a href = " " <img src = "https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"/> </a>
-
 <p
 **Badjodibe/Badjodibe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -32,3 +37,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 /p>
+</body>
+</html>
