@@ -2,7 +2,7 @@
 
 ## About Me
 
-👋 I'm [Dibe BADJO], a software engineer passionate about innovation, technology, and data. My expertise lies in the fields of machine learning and data science.
+👋 I'm [Dibé koffi BADJO], a software engineer passionate about innovation, technology, and data. My expertise lies in the fields of machine learning and data science.
 
 💻 As an IT professional, I've gained solid experience in software development, robust architecture design, and solving complex problems.
 
