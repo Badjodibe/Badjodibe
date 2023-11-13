@@ -9,13 +9,12 @@
 🤖 My particular interest in machine learning and data science has led me to explore and apply advanced algorithms to extract meaningful insights from data.
 
 ## Skills
-
+- **Framework:** Hadoop, Spark, Spring boot, JEE
 - **Programming Languages:** Python, Java, R
 - **Library:** TensorFlow, scikit-learn, numpy, pandas, scipy, pyspark
 - **Tools:** Jupyter, Docker, Git
 - **Query Languages:** SQL, T-SQL, MDX
-- **Framework:** Hadoop, Spark, Spring boot, JEE
-- 
+  
 ## Projects
 
 🚀 I share my projects related to machine learning, data science, and software development here. Feel free to explore my repositories to discover my achievements.
