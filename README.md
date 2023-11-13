@@ -13,7 +13,7 @@
 - **Programming Languages:** Python, Java, R
 - **Library:** TensorFlow, scikit-learn, numpy, pandas, scipy, pyspark
 - **Tools:** Jupyter, Docker, Git
-- **Query Languages:** SQL, T-SQL, MDX
+- **Query Languages:** SQL, T-SQL
   
 ## Projects
 
