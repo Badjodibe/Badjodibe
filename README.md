@@ -14,6 +14,7 @@
 - **Library:** TensorFlow, scikit-learn, numpy, pandas, scipy, pyspark
 - **Tools:** Jupyter, Docker, Git
 - **Query Languages:** SQL, T-SQL
+- **Domaine knowledge:** Software Development,Data science, Big Data,Machine learning
   
 ## Projects
 
