@@ -5,7 +5,7 @@
 My name is BADJO Dibe and I am a Software & Big data developer. Welcome to my GitHub repository where I share my projects, skills, and professional journey. My domain Knownledge include Web developpement, IA. If you have a project that match my skills contact me, even if it's out of my skills, i like to learn news technologies.
 ## Skills
 
-- **Programming Languages**:  Python, Java, JavaScript, Scala, R, C
+- **Programming Languages**:  Python, Java, JavaScript
 - **Technologies**: Spark, Hadoop, Docker, RDMS
 - **Frameworks and Libraries**: Spring boot, React.Js, Tensorflow, Keras
 - **Productivity**: Git, bash
